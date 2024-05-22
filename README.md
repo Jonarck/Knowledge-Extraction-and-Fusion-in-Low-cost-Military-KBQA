@@ -1,6 +1,6 @@
 # Knowledge Extraction and Knowledge Fusion Low-cost Military KBQA
 
-**Belong to a SEU Course Project in The Course - "Special Topics in Knowledge Engineering", Instructed by Prof. WU Tianxing and Prof. WANG Meng**
+**Belong to a SEU Course Project in The Course - "Special Topics in Knowledge Engineering", Instructed by Prof. WU Tianxing([https://tianxing-wu.github.io/]) and Prof. WANG Meng([http://wangmengsd.com/])**
 
 I responsible for the iteration of technical solutions, knowledge extraction and integration. (Cooperate with LI Kaixin)
 
