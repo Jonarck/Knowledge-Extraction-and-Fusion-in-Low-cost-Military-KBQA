@@ -2,6 +2,8 @@
 
 **Belong to a SEU Course Project in The Course - "Special Topics in Knowledge Engineering", Instructed by Prof. WU Tianxing ([https://tianxing-wu.github.io/]) and Prof. WANG Meng ([http://wangmengsd.com/])**
 
+**Skillfully utilized tagging models to identify the first verb after time, constructing corresponding attributes for abundant temporal entities. Using only string similarity, efficiently merged a large number of properties based on the fundamental commonalities and entity sparsity.**
+
 I responsible for the iteration of technical solutions, knowledge extraction and integration. (Cooperate with LI Kaixin)
 
 Knowledge extraction: Participated in writing efficient regular expressions. Proposed an innovative approach to extract extremely diverse temporal property by introducing a tagging task model, extracting the first verb after the temporal noun as the property of the temporal entity.
